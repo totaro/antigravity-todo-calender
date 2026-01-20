@@ -2,7 +2,7 @@
 
 A persistent Todo application with a Calendar view, drag-and-drop rescheduling, and category management.
 
-On this project, a modern Todo Calendar Application were build from the ground up, evolving it from a basic MVP into a feature-rich productivity tool.
+On this project, a modern Todo Calendar Application were build from the ground up with AntiGravity and ChatGPT, evolving it from a basic MVP into a feature-rich productivity tool.
 
 Core Accomplishments
 - **Full-Stack Architecture**: Established a Node.js backend using `json-server` for persistent storage and a React frontend built with Vite.
