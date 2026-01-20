@@ -16,7 +16,9 @@ Core Accomplishments
 - **Persistence**: Ensured all data is saved locally to a `db.json` file, so your schedule is preserved across browser refreshes and server restarts.
 
 The current state is a clean, responsive interface that combines traditional todo management with a visual planning workflow.
-
+## Screenshots
+![image](todocalender1_ld.png)
+![image](todocalender_ld.png)
 ## Project Structure
 - **client/**: React frontend (Vite)
 - **server/**: Node.js backend (json-server)
